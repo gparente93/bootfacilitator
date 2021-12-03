@@ -21,6 +21,8 @@ server:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.DB2Dialect 
-
+# =================================
+api:
+  url : https://api.stakdek.de/api/qr/gen?data=
 
 
