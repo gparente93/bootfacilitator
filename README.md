@@ -1,3 +1,3 @@
 # bootfacilitator
 
-Progetto Spring Boot di base per l'espisizione di servizi
+Basic Spring Boot project
