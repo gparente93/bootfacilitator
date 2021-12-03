@@ -25,7 +25,7 @@ public class BootTests {
 	}
 
     @Test
-    public void shouldProvideHealthMetric() throws Exception {
+    public void pingApi() throws Exception {
     	boolean testUrl =pingUrl("https://api.stakdek.de/api/qr/gen?data=test");
     	assertTrue(testUrl);
     }
