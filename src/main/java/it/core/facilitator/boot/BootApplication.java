@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfigurat
 @SpringBootApplication
 //@EntityScan(basePackages = { "it.core.facilitator.boot.entity" })
 //@EnableJpaRepositories(basePackages = {"it.core.facilitator.boot.repository"})
-//@ComponentScan(basePackages = {"it.core.facilitator.boot.controller", "it.core.facilitator.boot.service"})
+//@ComponentScan(basePackages = {"it.core.facilitator.boot.boot.controller", "it.core.facilitator.boot.service"})
 @EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class,HibernateJpaAutoConfiguration.class})
 //@EnableTransactionManagement  
 public class BootApplication {

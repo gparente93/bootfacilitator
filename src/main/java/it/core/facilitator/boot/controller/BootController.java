@@ -1,6 +1,7 @@
 package it.core.facilitator.boot.controller;
 
 import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -31,8 +32,8 @@ public class BootController {
 	 * @param content - text in string format
 	 * @return png resource
 	 */
-  	@GetMapping(value = "/qrcode", produces = MediaType.IMAGE_PNG_VALUE)
-    public ResponseEntity<Resource> qrCodeGenerator(@RequestParam @NotBlank String content) {
+  	@GetMapping(value = "/qrcode", params = {"content!="}, produces = MediaType.IMAGE_PNG_VALUE)
+    public ResponseEntity<Resource> qrCodeGenerator(@RequestParam String content) {
   		log.info("content {}", content);
         ResponseEntity<byte[]> response = restTemplate.getForEntity(url + content, byte[].class);
         final ByteArrayResource inputStream = new ByteArrayResource(response.getBody());
