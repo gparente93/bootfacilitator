@@ -35,7 +35,7 @@ public class BootController {
   	@GetMapping(value = "/qrcode", params = {"content!="}, produces = MediaType.IMAGE_PNG_VALUE)
     public ResponseEntity<Resource> qrCodeGenerator(@RequestParam String content) {
   		log.info("content {}", content);
-        ResponseEntity<byte[]> response = restTemplate.getForEntity(url + content, byte[].class);
+        ResponseEntity<byte[]> response = restTemplate.getForEntity(url.concat(content), byte[].class);
         final ByteArrayResource inputStream = new ByteArrayResource(response.getBody());
         return ResponseEntity
                 .status(HttpStatus.OK)
