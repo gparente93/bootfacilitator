@@ -1,0 +1,48 @@
+2021-12-03 11:58:16,564 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting BootApplication using Java 11.0.10 on IT-PF1CYTVP with PID 17520 (C:\Users\gparente3\OneDrive - DXC Production\Documents\Facilitatori\bootfacilitator\target\classes started by gparente3 in C:\Users\gparente3\OneDrive - DXC Production\Documents\Facilitatori\bootfacilitator)
+2021-12-03 11:58:16,565 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-03 11:58:16,908 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8083 (http)
+2021-12-03 11:58:16,909 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-03 11:58:16,909 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-12-03 11:58:16,942 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-03 11:58:16,942 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 371 ms
+2021-12-03 11:58:17,062 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-03 11:58:17,075 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8083 (http) with context path ''
+2021-12-03 11:58:17,079 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started BootApplication in 0.701 seconds (JVM running for 49.812)
+2021-12-03 11:58:17,081 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-12-03 11:59:21,512 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting BootApplication using Java 11.0.10 on IT-PF1CYTVP with PID 17520 (C:\Users\gparente3\OneDrive - DXC Production\Documents\Facilitatori\bootfacilitator\target\classes started by gparente3 in C:\Users\gparente3\OneDrive - DXC Production\Documents\Facilitatori\bootfacilitator)
+2021-12-03 11:59:21,513 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-03 11:59:21,836 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8083 (http)
+2021-12-03 11:59:21,837 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-03 11:59:21,837 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-12-03 11:59:21,872 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-03 11:59:21,873 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 356 ms
+2021-12-03 11:59:21,988 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-03 11:59:21,998 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8083 (http) with context path ''
+2021-12-03 11:59:22,004 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started BootApplication in 0.547 seconds (JVM running for 114.737)
+2021-12-03 11:59:22,006 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-12-03 11:59:25,323 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting BootApplication using Java 11.0.10 on IT-PF1CYTVP with PID 17520 (C:\Users\gparente3\OneDrive - DXC Production\Documents\Facilitatori\bootfacilitator\target\classes started by gparente3 in C:\Users\gparente3\OneDrive - DXC Production\Documents\Facilitatori\bootfacilitator)
+2021-12-03 11:59:25,324 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-03 11:59:25,704 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8083 (http)
+2021-12-03 11:59:25,706 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-03 11:59:25,707 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-12-03 11:59:25,762 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-03 11:59:25,762 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 433 ms
+2021-12-03 11:59:25,922 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-03 11:59:25,938 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8083 (http) with context path ''
+2021-12-03 11:59:25,945 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started BootApplication in 0.676 seconds (JVM running for 118.679)
+2021-12-03 11:59:25,949 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-12-03 12:00:59,851 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8083-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-03 12:00:59,853 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8083-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-12-03 12:00:59,855 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8083-exec-1] Completed initialization in 2 ms
+2021-12-03 12:01:15,468 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting BootApplication using Java 11.0.10 on IT-PF1CYTVP with PID 17520 (C:\Users\gparente3\OneDrive - DXC Production\Documents\Facilitatori\bootfacilitator\target\classes started by gparente3 in C:\Users\gparente3\OneDrive - DXC Production\Documents\Facilitatori\bootfacilitator)
+2021-12-03 12:01:15,469 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-03 12:01:15,734 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8083 (http)
+2021-12-03 12:01:15,735 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-03 12:01:15,735 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-12-03 12:01:15,769 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-03 12:01:15,769 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 297 ms
+2021-12-03 12:01:15,861 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-03 12:01:15,872 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8083 (http) with context path ''
+2021-12-03 12:01:15,879 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started BootApplication in 0.453 seconds (JVM running for 228.612)
+2021-12-03 12:01:15,881 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2021-12-03 12:01:22,253 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(22)-127.0.0.1] Application shutdown requested.
